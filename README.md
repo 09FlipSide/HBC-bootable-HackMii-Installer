@@ -14,7 +14,7 @@ This can be useful in situations such as:
 ## Important
 
 ⚠️ **This program does not belong to me.**  
-All credit for the HackMii Installer goes to its original developers.
+All credit for the HackMii Installer goes to the **[original developers](https://bootmii.org/download/)**.
 
 This repository simply provides a version that can be **booted from the Homebrew Channel** for convenience.
 
